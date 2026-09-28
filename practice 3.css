@@ -81,11 +81,11 @@ li:hover  {
    width: 8.3vw;
 }
 
-#one {background-color:#ff6b90;}
-#two {background-color:#ff5ce9;}
-#three {background-color:#ff4d8b;}
-#four {background-color:#ff669c;}
-#five {background-color:#ff99f1;}
+#one {background-color:#ff0000;}
+#two {background-color:#cf041f;}
+#three {background-color:#ff5ce9;}
+#four {background-color:#ff4d8b;}
+#five {background-color:#ff669c;}
 
 section {
   position: relative;
@@ -228,7 +228,7 @@ img {
 }
 
 #one2 {
-  background: linear-gradient(to bottom right, #ff6b90, #f90126);
+  background: linear-gradient(to bottom right, #ff0000, #000000);
 }
 
 .poster {
@@ -279,11 +279,11 @@ li:hover  {
    width: 80px;
 }
 
-#one {background-color:#ff6b90;}
-#two {background-color:#ff5ce9;}
-#three {background-color:#ff4d8b;}
-#four {background-color:#ff669c;}
-#five {background-color:#ff99f1;}
+#one {background-color:#ff0000;}
+#two {background-color:#cf041f;}
+#three {background-color:#ff5ce9;}
+#four {background-color:#ff4d8b;}
+#five {background-color:#ff669c;}
 
 section {
   position: relative;
@@ -430,7 +430,7 @@ img {
 }
 
 #one2 {
-  background: linear-gradient(to bottom right, #ff6b90, #f90126);
+  background: linear-gradient(to bottom right, #ff0000, #000000);
 }
 
 .poster {
